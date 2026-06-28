@@ -1,0 +1,5 @@
+libllt.dylib
+libllt.dll
+libllt.so
+**/.DS_Store
+build/
